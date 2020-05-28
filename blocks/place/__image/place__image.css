@@ -1,0 +1,35 @@
+.place__image {
+    margin: 0;
+    object-fit: cover;
+}
+
+@media screen and (min-width: 1280px) {
+    .place__image {
+      width: 46.7%;
+    }
+  }
+  
+  @media screen and (max-width: 1279px) {
+    .place__image {
+      width: 46.7%;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    .place__image {
+      width: 47.4%;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .place__image {
+      width: 47.2%;
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+    .place__image {
+      width: 100%;
+      margin-bottom: 32px;   
+    }
+  }

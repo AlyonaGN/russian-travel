@@ -1,0 +1,47 @@
+@import url(./__lang-links/header__lang-links.css);
+@import url(./__lang-link/header__lang-link.css);
+@import url(./__lang-link/_ru/header__lang-link_ru.css);
+@import url(./__lang-list-item/_ru/header__lang-list-item.css);
+@import url(./__logo/header__logo.css);
+
+
+.header {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+@media screen and (min-width: 1280px) {
+  .header {
+    margin-bottom: 56px;
+    width: 92.5%;
+  }
+}
+
+@media screen and (max-width: 1279px) {
+  .header {
+    margin-bottom: 56px;
+    width: 92.5%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    width: 90.6%;
+    margin-bottom: 48px; 
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    width: 93.75%; 
+    margin-bottom: 48px; 
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    width: 90%;
+    margin-bottom: 48px;   
+  }
+}
