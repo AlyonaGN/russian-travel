@@ -5,6 +5,7 @@
     line-height: 1.142;
     font-weight: normal;
     margin: 0;
+    align-self: flex-end;
   }
 
   @media screen and (min-width: 1280px) {
@@ -22,6 +23,7 @@
   @media screen and (max-width: 725px) {
     .footer__copyright {
       text-align: left;
-      line-height: 1; 
+      line-height: 1;
+      align-self: auto; 
     }
   }
