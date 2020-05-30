@@ -5,14 +5,14 @@
 
 @media screen and (min-width: 1280px) {
   .place__paragraphs {
-    width: 49.1%;
+    width: 49%;
 
   }
 }
 
 @media screen and (max-width: 1279px) {
   .place__paragraphs {
-    width: 49.1%;
+    width: 49%;
   }
 }
 
@@ -24,12 +24,12 @@
 
 @media screen and (max-width: 768px) {
   .place__paragraphs {
-    width: 48.8%;
+    width: 48%;
 
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 725px) {
   .place__paragraphs {
     width: 90%;
     margin-left: auto;
