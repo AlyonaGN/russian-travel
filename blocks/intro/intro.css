@@ -6,22 +6,9 @@
 
 .intro {
   margin: 0;
-}
-
-@media screen and (min-width: 1280px) {
-  .intro {
-    margin-bottom: 92px;
-    width: 58.3%;
-    margin-left: 8.45%; 
-  }
-}
-
-@media screen and (max-width: 1279px) {
-  .intro {
-    margin-bottom: 92px;
-    width: 58.3%;
-    margin-left: 8.45%; 
-  }
+  margin-bottom: 92px;
+  width: 58.3%;
+  margin-left: 8.45%; 
 }
 
 @media screen and (max-width: 1024px) {

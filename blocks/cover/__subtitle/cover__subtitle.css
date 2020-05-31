@@ -5,22 +5,9 @@
     text-align: center;
     word-wrap: break-word;
     z-index: 1;
-  }
-
-  @media screen and (min-width: 1280px) {
-    .cover__subtitle {
-      width: 28.12%;
-      font-size: 18px;
-      line-height: 1.2;
-    }
-  }
-  
-  @media screen and (max-width: 1279px) {
-    .cover__subtitle {
-      width: 28.12%;
-      font-size: 18px;
-      line-height: 1.2; 
-    }
+    width: 28.12%;
+    font-size: 18px;
+    line-height: 1.2;
   }
   
   @media screen and (max-width: 725px) {

@@ -1,19 +1,6 @@
 .place__paragraphs {
   margin: 0;
-  
-}
-
-@media screen and (min-width: 1280px) {
-  .place__paragraphs {
-    width: 49%;
-
-  }
-}
-
-@media screen and (max-width: 1279px) {
-  .place__paragraphs {
-    width: 49%;
-  }
+  width: 49%;
 }
 
 @media screen and (max-width: 768px) {

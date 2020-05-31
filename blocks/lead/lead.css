@@ -6,20 +6,8 @@
 
 .lead {
   margin: 0 auto;
-}
-
-@media screen and (min-width: 1280px) {
-  .lead {
-    margin-bottom: 92px;
-    width: 83.1%;
-  }
-}
-
-@media screen and (max-width: 1279px) {
-  .lead {
-    margin-bottom: 92px;
-    width: 83.1%;
-  }
+  margin-bottom: 92px;
+  width: 83.1%;
 }
 
 @media screen and (max-width: 1024px) {

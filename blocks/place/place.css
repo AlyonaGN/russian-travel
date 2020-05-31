@@ -6,33 +6,18 @@
 @import url(./__url-heading/place__url-heading.css);
 @import url(./__link/place__link.css);
 
-
-
 .place {
   margin: 0 auto;
   width: 100%;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-}
-
-@media screen and (min-width: 1280px) {
-  .place {
-    margin-bottom: 88px;
-    
-  }
-}
-
-@media screen and (max-width: 1279px) {
-  .place {
-    margin-bottom: 88px;
-  }
+  margin-bottom: 88px;
 }
 
 @media screen and (max-width: 1024px) {
   .place {
     margin-bottom: 80px;
-    
   }
 }
 
@@ -49,5 +34,5 @@
 }
 
 .place:last-of-type {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }

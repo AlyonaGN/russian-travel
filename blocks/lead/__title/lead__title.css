@@ -4,22 +4,9 @@
     font-weight: 900;
     text-align: center;
     word-wrap: break-word;
-  }
-
-  @media screen and (min-width: 1280px) {
-    .lead__title {
-      margin-bottom: 32px;
-      font-size: 96px;
-      line-height: 1.04;
-    }
-  }
-  
-  @media screen and (max-width: 1279px) {
-    .lead__title {
-      margin-bottom: 32px;
-      font-size: 96px;
-      line-height: 1.04; 
-    }
+    margin-bottom: 32px;
+    font-size: 96px;
+    line-height: 1.04;
   }
   
   @media screen and (max-width: 768px) {

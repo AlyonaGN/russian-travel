@@ -1,20 +1,8 @@
 .content-container {
     margin: 0 auto;
+    margin-bottom: 92px;
+    width: 92.5%;
 }
-
-@media screen and (min-width: 1280px) {
-    .content-container {
-      margin-bottom: 92px;
-      width: 92.5%;
-    }
-  }
-  
-  @media screen and (max-width: 1279px) {
-    .content-container {
-      width: 92.5%;
-      margin-bottom: 92px; 
-    }
-  }
   
   @media screen and (max-width: 1024px) {
     .content-container {

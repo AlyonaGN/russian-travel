@@ -9,20 +9,8 @@
   display: flex;
   margin: 0 auto;
   justify-content: space-between;
-}
-
-@media screen and (min-width: 1280px) {
-  .header {
-    margin-bottom: 56px;
-    width: 92.5%;
-  }
-}
-
-@media screen and (max-width: 1279px) {
-  .header {
-    margin-bottom: 56px;
-    width: 92.5%;
-  }
+  margin-bottom: 56px;
+  width: 92.5%;
 }
 
 @media screen and (max-width: 1024px) {
