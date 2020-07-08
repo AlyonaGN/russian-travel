@@ -3,7 +3,7 @@
 
 Это моя третья проектная работа на Яндекс.Практикум, подготовленная по результатам завершения третьего спринта.
 
-[Ссылка на проект на Github Pages](https://alyonag-tech.github.io/russian-travel/)
+[Ссылка на проект на Github Pages](https://alyonagn.github.io/russian-travel/)
 
 **Работа подготовлена с использованием языков:** 
 
