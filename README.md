@@ -1,14 +1,11 @@
-# Путешествия по России
-## Страница, содержащая полезную информацию о местах в России, которые стоит посетить
+# Traveling Across Russia
+## A page containing useful information about places in Russia that are worth visiting.
+[Link to the project on GitHub Pages](https://alyonagn.github.io/russian-travel/)
 
-[Ссылка на проект на Github Pages](https://alyonagn.github.io/russian-travel/)
+The project includes, among other things:
 
-**В проекте используется, среди прочего:** 
-
-1. флексбокс-вёрстка.
-2. гриды для сеток фотографий.
-3. медиазапросы для реализации отзывчивой верстки.
-4. переходы для плавного изменения состояния элементов при наведении мыши.
- 
-
-В проекте соблюдены правила БЭМ, в том числе, применительно к структуре хранения файлов.
+1. Flexbox layout.
+2. Grids for photo galleries.
+3. Media queries for responsive design.
+4. Transitions for smooth changes in element states on hover.
+5. The project follows BEM (Block Element Modifier) principles, including file structure organization.
